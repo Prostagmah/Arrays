@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Output of numbers from a in forward and reverse order\Output of numbers from a in forward and reverse order\bin\Debug\Output of numbers from a in forward and reverse order.exe.config
+C:\Users\User\source\repos\Output of numbers from a in forward and reverse order\Output of numbers from a in forward and reverse order\bin\Debug\Output of numbers from a in forward and reverse order.exe
+C:\Users\User\source\repos\Output of numbers from a in forward and reverse order\Output of numbers from a in forward and reverse order\bin\Debug\Output of numbers from a in forward and reverse order.pdb
+C:\Users\User\source\repos\Output of numbers from a in forward and reverse order\Output of numbers from a in forward and reverse order\obj\Debug\Output of numbers from a in forward and reverse order.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Output of numbers from a in forward and reverse order\Output of numbers from a in forward and reverse order\obj\Debug\Output of numbers from a in forward and reverse order.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Output of numbers from a in forward and reverse order\Output of numbers from a in forward and reverse order\obj\Debug\Output of numbers from a in forward and reverse order.exe
+C:\Users\User\source\repos\Output of numbers from a in forward and reverse order\Output of numbers from a in forward and reverse order\obj\Debug\Output of numbers from a in forward and reverse order.pdb
