@@ -1,0 +1,14 @@
+C:\Users\Ученик\source\repos\hz_lol\bin\Debug\hz_lol.exe.config
+C:\Users\Ученик\source\repos\hz_lol\bin\Debug\hz_lol.exe
+C:\Users\Ученик\source\repos\hz_lol\bin\Debug\hz_lol.pdb
+C:\Users\Ученик\source\repos\hz_lol\obj\Debug\hz_lol.csproj.AssemblyReference.cache
+C:\Users\Ученик\source\repos\hz_lol\obj\Debug\hz_lol.csproj.CoreCompileInputs.cache
+C:\Users\Ученик\source\repos\hz_lol\obj\Debug\hz_lol.exe
+C:\Users\Ученик\source\repos\hz_lol\obj\Debug\hz_lol.pdb
+G:\С#\На уроке\От 28.11.21\hz_lol\obj\Debug\hz_lol.csproj.AssemblyReference.cache
+G:\С#\На уроке\От 28.11.21\hz_lol\obj\Debug\hz_lol.csproj.CoreCompileInputs.cache
+G:\С#\На уроке\От 28.11.21\hz_lol\obj\Debug\hz_lol.exe
+G:\С#\На уроке\От 28.11.21\hz_lol\obj\Debug\hz_lol.pdb
+G:\С#\На уроке\От 28.11.21\hz_lol\bin\Debug\hz_lol.exe.config
+G:\С#\На уроке\От 28.11.21\hz_lol\bin\Debug\hz_lol.exe
+G:\С#\На уроке\От 28.11.21\hz_lol\bin\Debug\hz_lol.pdb
